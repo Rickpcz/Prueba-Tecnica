@@ -49,7 +49,7 @@ body {
 }
 
 .hero-section {
-    background-image: url('../img/cover.jpg');
+    background-image: url('../img/cover.webp');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
